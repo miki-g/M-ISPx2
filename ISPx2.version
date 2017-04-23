@@ -1,0 +1,24 @@
+{
+  "NAME": "M_ISPx2",
+  "URL": "ComingSoon",
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 0,
+    "PATCH": 1
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 2,
+	"PATCH": 2
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 0,
+	"PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 2,
+	"PATCH": 9
+  }
+}
